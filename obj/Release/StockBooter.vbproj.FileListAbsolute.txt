@@ -1,0 +1,10 @@
+C:\Users\Andrea\documents\visual studio 2013\Projects\StockBooter\bin\Release\StockBooter.exe.config
+C:\Users\Andrea\documents\visual studio 2013\Projects\StockBooter\bin\Release\StockBooter.exe
+C:\Users\Andrea\documents\visual studio 2013\Projects\StockBooter\bin\Release\StockBooter.pdb
+C:\Users\Andrea\documents\visual studio 2013\Projects\StockBooter\bin\Release\StockBooter.xml
+C:\Users\Andrea\documents\visual studio 2013\Projects\StockBooter\obj\Release\StockBooter.Form1.resources
+C:\Users\Andrea\documents\visual studio 2013\Projects\StockBooter\obj\Release\StockBooter.Resources.resources
+C:\Users\Andrea\documents\visual studio 2013\Projects\StockBooter\obj\Release\StockBooter.vbproj.GenerateResource.Cache
+C:\Users\Andrea\documents\visual studio 2013\Projects\StockBooter\obj\Release\StockBooter.exe
+C:\Users\Andrea\documents\visual studio 2013\Projects\StockBooter\obj\Release\StockBooter.xml
+C:\Users\Andrea\documents\visual studio 2013\Projects\StockBooter\obj\Release\StockBooter.pdb
